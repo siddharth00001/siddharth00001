@@ -24,8 +24,7 @@ I'm a full stack Data Scientist
 7. Flask
 8. Pandas
 9. Numpy
-10. Streamlit
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working with Wipro Limited.
+👩‍💻 I'm currently working with Tata Consultancy Services.
 
